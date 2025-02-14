@@ -64,8 +64,8 @@ We follow a strict **Code of Conduct** to ensure a respectful and inclusive envi
 
 | Category        | Tools/Technologies |
 |-----------------|--------------------|
-| **Frontend**    | React, Vue, TailwindCSS |
-| **Backend**     | Node.js, Python, Go |
+| **Frontend**    | React, Vue, TailwindCSS, HTMX |
+| **Backend**     | Node.js, Python, Go, PHP |
 | **Tooling**     | Webpack, ESLint, Prettier |
 | **Deployment**  | Docker, Kubernetes |
 
@@ -90,7 +90,7 @@ Thanks to our contributors, supporters, and the open-source community for making
 ## 📬 Contact Us
 
 - **Discord**: [Join our community](#)
-- **Email**: [contact@ronindevelopers.org](mailto:ronin.developers@gmail.com)
+- **Email**: [developers.ronin@gmail.com](mailto:developers.ronin@gmail.com)
 
 ---
 
